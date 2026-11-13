@@ -1,0 +1,6 @@
+# Runtime dependencies for the official Vireo-4B release.
+torch>=2.4.0
+numpy>=1.26.0
+pyyaml>=6.0
+safetensors>=0.4.3
+transformers>=4.45.0
